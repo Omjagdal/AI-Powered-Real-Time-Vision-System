@@ -19,7 +19,7 @@ while True:
     
     cv2.imshow("VisionBoost YOLO11", annotated_frame)
 
-    # Exit on ESC
+    
     if cv2.waitKey(1) == 27:
         break
 
